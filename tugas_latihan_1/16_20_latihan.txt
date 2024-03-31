@@ -1,0 +1,19 @@
+16. Bagaimana cara menambahkan app bar dan body pada widget Scaffold?
+    Jawaban: Dengan menggunakan properti appBar dan menambahkan body menggunakan properti body pada widget Scaffold.
+
+17. Apa perbedaan antara Stateless Widget dan Stateful Widget?
+    Jawaban: Stateless Widget adalah widget yang tidak berubah sepanjang masa hidup aplikasi, sedangkan 
+             Stateful Widget adalah widget yang dapat mengubah tampilannya selama masa hidup aplikasi berjalan.
+
+18. Mengapa Stateful Widget disebut memiliki state internal?
+    Jawaban: Karena mereka memiliki objek State yang terkait dengannya, yang berisi data yang dapat berubah 
+             selama masa hidup widget.
+
+19. Berikan contoh penggunaan Stateless Widget dalam pembuatan aplikasi Flutter.
+    Jawaban: Contoh penggunaan Stateless Widget adalah widget Text, Image, dan Icon. Ini adalah widget yang 
+             tidak memerlukan perubahan state dan tampilannya tidak berubah selama masa hidup aplikasi.
+
+20. Berikan contoh penggunaan Stateful Widget dalam pembuatan aplikasi Flutter beserta alasan penggunaannya.
+    Jawaban: Contoh penggunaan Stateful Widget adalah widget TextField, Checkbox, dan RadioButton. 
+             Ini digunakan ketika Anda memerlukan widget yang dapat merespons perubahan input pengguna 
+             atau perubahan lain dalam aplikasi.

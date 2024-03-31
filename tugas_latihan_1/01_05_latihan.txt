@@ -1,0 +1,18 @@
+1. Bagaimana cara membuat project Flutter menggunakan terminal/cmd?
+    Jawaban: Dengan menjalankan perintah "flutter create namaprojek" di terminal atau cmd
+
+2. Apa aturan dalam memberikan nama project pada Flutter?
+    Jawaban: Aturan yang harus diketahui adalah sebagai berikut:
+                - Nama tidak boleh kosong dan harus memiliki panjang minimal 1 karakter
+                - Tidak boleh mengandung spasi. 
+                - Gunakan tanda underscore "_" untuk membuat nama yang lebih dari satu karakter
+
+3. Apa saja folder yang secara khusus disiapkan oleh Flutter untuk menjalankan aplikasi pada platform tertentu?
+    Jawaban: Folder tersebut diantaranya, android, ios, linux, macos, web, dan windows
+
+4. Apa fungsi dari folder .dart_tools dan .idea?
+    Jawaban: - folder .dart_tools berisi konfigurasi dart package yang di generate oleh flutter,
+             - folder .idea berisi konfigurasi android studio, termasuk pengaturan editor, plugin, dan lainnya.
+
+5. Bagaimana cara membuka project Flutter menggunakan Visual Studio Code?
+    Jawaban: Buka Visual Studio Code, lalu pilih "Open Folder" dan pilih folder proyek Flutter yang ingin dibuka.

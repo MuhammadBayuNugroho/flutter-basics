@@ -1,0 +1,24 @@
+11. Apa yang dimaksud dengan widget dalam konteks Flutter?
+    Jawaban: Widget adalah komponen utama yang digunakan untuk membuat antarmuka pengguna. 
+             Widget mencakup semua elemen visual yang ada dalam aplikasi Flutter, seperti tombol, 
+             teks, gambar, dan tata letak.
+
+12. Bagaimana pewarisan (inheritance) digunakan dalam pembuatan widget Flutter?
+    Jawaban: Untuk pewarisan class, Flutter menambahkan kata kunci extends sebelum kurung kurawal 
+             dan setelah nama class. Ini memberi tahu dart bahwa class ini akan mewarisi class lain, 
+             dan kita hanya dapat memperluas atau mewarisi satu class sekaligus.
+
+13. Apa peran widget MaterialApp dalam pembuatan aplikasi Flutter?
+    Jawaban: Widget MaterialApp adalah wrapper untuk aplikasi Flutter yang menawarkan fitur bawaan 
+             seperti navigasi, manajemen tema, dan lainnya. Selain itu, wrapper ini memperkenalkan 
+             widget seperti MaterialApp, Scaffold, dan lainnya yang membantu proses pembuatan aplikasi
+             yang konsisten secara visual.
+
+14. Mengapa kita membutuhkan fungsi runApp untuk menjalankan aplikasi Flutter?
+    Jawaban: runApp sendiri, fitur yang disediakan oleh Flutter, memungkinkan aplikasi flutter berjalan 
+             setelah booting aplikasi android atau ios. Pada akhirnya, dia akan mencoba mengambil widget 
+             tree yang kita buat dan menempatkannya ke layar yang didasarkan padanya.
+
+15. Apa kegunaan widget Scaffold dalam struktur aplikasi Flutter?
+    Jawaban: Untuk mendapatkan tampilan yang lebih indah, Widget Scaffold mempunyai beberapa argument, 
+             yang sering digunakan adalah argument appBar dan body.

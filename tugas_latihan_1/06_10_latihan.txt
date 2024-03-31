@@ -1,0 +1,18 @@
+6. Mengapa kita perlu memastikan Android SDK terinstall untuk menjalankan aplikasi Flutter di sistem operasi Android?
+    Jawaban: karena Flutter membutuhkan akses ke alat pengembangan Android untuk membangun dan menjalankan 
+             aplikasi Flutter di perangkat Android.
+
+7. Apa langkah-langkah untuk mengatasi masalah "Android Toolchain error" pada perintah flutter doctor?
+    Jawaban: Buka CMD -> Masukkan perintah "flutter config --android-sdk <lokasi SDK Android>"
+
+8. Bagaimana cara menambahkan Android SDK Command-line tools melalui Android Studio?
+    Jawaban: - Unduh dan instal Android Studio, lalu melalui Android Studio SDK Manager, 
+             - pilih "Android SDK Command-line tools" untuk diinstal.
+
+9. Apa fungsi dari file .gitignore dalam struktur folder Flutter?
+    Jawaban: File ".gitignore" digunakan untuk menentukan file dan folder mana yang akan diabaikan 
+             oleh Git saat melakukan operasi version control.
+        
+10.Mengapa file pubspec.yaml sangat penting dalam pengembangan aplikasi Flutter?
+    Jawaban: File "pubspec.yaml" digunakan untuk mendefinisikan semua dependensi proyek Flutter 
+             dan juga untuk mengatur pengaturan proyek seperti nama, deskripsi, versi, dll.
